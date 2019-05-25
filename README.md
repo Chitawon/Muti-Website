@@ -7,7 +7,7 @@
 
 ## Information
 
-**Project Site:** https://github.com/Chitawon/Muti-Website/edit/master/README.md
+**Project Site:** https://github.com/Chitawon/Muti-Website
 
 **Last Updated:** 23th may 2019  
 
