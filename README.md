@@ -9,7 +9,7 @@
 
 **Project Site:** https://github.com/Chitawon/Muti-Website/edit/master/README.md
 
-**Last Updated:** 23st may 2019  
+**Last Updated:** 23th may 2019  
 
 **Project Status:** inprogress/static website
 
