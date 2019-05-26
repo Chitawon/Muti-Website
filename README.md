@@ -9,9 +9,9 @@
 
 **Project Site:** https://github.com/Chitawon/Muti-Website
 
-**Last Updated:** 23th may 2019  
+**Last Updated:** 25th may 2019  
 
-**Project Status:** inprogress/static website
+**Project Status:** inprogress/video
 
 
 ## Statistics
