@@ -50,7 +50,7 @@
   <th><p align="center">Designer</p></th>
   <th><p align="center">Designer</p></th>
   <th><p align="center">FRONT-END DEV</p></th>
-  <th><p align="center">FRONT-END DEV</p></th>
+  <th><p align="center">Back-END DEV</p></th>
  </table></center>
  <center><table>
  <tr>
