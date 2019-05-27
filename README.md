@@ -45,7 +45,7 @@
   <th><p align="center">61070057</p></th>
   <th><p align="center">61070253</p></th>
   <th><p align="center">61070349</p></th>
-  <th><p align="center">61070041</p></th>
+  <th><p align="center">61070039</p></th>
  <tr>
   <th><p align="center">Designer</p></th>
   <th><p align="center">Designer</p></th>
@@ -62,8 +62,8 @@
   <th><p align="center">นาย กิตติภูมิ  ชูอมร</p></th>
  </tr>
  <tr>
+  <th><p align="center">61070041</p></th>
   <th><p align="center">61070015</p></th>
-  <th><p align="center">61070039</p></th>
  </tr>
  <tr>
   <th><p align="center">WORDPRESS DEV</p></th>
