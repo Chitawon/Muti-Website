@@ -9,18 +9,18 @@
 
 **Project Site:** https://github.com/Chitawon/Muti-Website
 
-**Last Updated:** 25th may 2019  
+**Last Updated:** 27th may 2019  
 
-**Project Status:** inprogress/video
+**Project Status:** Completed
 
 
 ## Statistics
 
 **Started:** 16th April 2019  
 
-**Completed:** -
+**Completed:** 27th may 2019
 
-**Total Days:** - day
+**Total Days:** 41 day
 
 **Main Language:** JAVA script,HTML,CSS
 
